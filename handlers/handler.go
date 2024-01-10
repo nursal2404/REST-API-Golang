@@ -1,8 +1,10 @@
 package handlers
 
 import (
-    "fmt"
-    "github.com/gin-gonic/gin"
+	"fmt"
+	"net/http"
+
+	"github.com/gin-gonic/gin"
 )
 
 
