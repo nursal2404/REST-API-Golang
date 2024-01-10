@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/gin-gonic/gin"
-	"github.com/nursal2404/REST-API-Golang/handlers"
+	"github.com/nursal2404/REST-API-Golang"
 )
 
 func main() {
