@@ -1,4 +1,10 @@
-package main
+package handlers
+
+import (
+    "fmt"
+    "github.com/gin-gonic/gin"
+)
+
 
 func rootHandler(c *gin.Context) {
 	c.JSON(200, gin.H{
